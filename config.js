@@ -7,7 +7,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: 'davidcgong',
   postsPerPage: 3,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-124026237-1',
   menu: [
     {
       label: 'Blog',
