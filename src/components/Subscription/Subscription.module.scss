@@ -1,0 +1,56 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.subscription {
+  background-color: #eee;
+  border-radius: 5px;
+  margin: 20px 0;
+  padding: 15px 15px;
+  font-size: $typographic-base-font-size * 0.95;
+  text-align: center;
+
+  &__blurb {
+    color: #222;   
+  }
+
+  input[type='email'] {
+    border: none;
+    border-bottom: 1px solid $color-gray;
+    padding: 5px 10px;
+    font-size: $typographic-base-font-size * 0.9;
+    background-color: transparent;
+    text-align: center;
+    @include margin-top(0.1);
+
+    &:hover, &:focus {
+      border-bottom: 1px solid $color-primary;
+    }
+  }
+
+  input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+  
+
+  input[type='submit'] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border-radius: 3px;
+    background-color: $color-primary;
+    color: white;
+    font-size: $typographic-base-font-size * 0.75;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 10px 30px;
+    @include margin-top(0.3);
+
+    &:hover {
+      background-color: $color-secondary;
+      cursor: pointer;
+    }
+  }
+}

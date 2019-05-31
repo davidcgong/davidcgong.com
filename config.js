@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://davidcgong.com',
   title: 'David Gong',
-  subtitle: 'Computer Science @ Georgia Tech and former pro table tennis athlete passionate about data science, quantitative investing, and software engineering.',
+  subtitle: 'Computer Science @ Georgia Tech, former pro table tennis athlete passionate about data science, quantitative investing, and software engineering.',
   copyright: '© All rights reserved.',
   disqusShortname: 'davidcgong',
   postsPerPage: 3,
-  googleAnalyticsId: 'UA-124026237-1',
+  googleAnalyticsId: 'UA-124026237-2',
   menu: [
     {
       label: 'Blog',

@@ -6,6 +6,7 @@ import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
+import Subscription from '../Subscription';
 import styles from './Post.module.scss';
 import type { Node } from '../../types';
 
@@ -30,11 +31,13 @@ const Post = ({ post }: Props) => {
       <a href="#">Back to the top.</a>
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
+        <Subscription />
         <Author />
       </div>
       <div className={styles['post__comments']}>
         <Comments postSlug={slug} postTitle={post.frontmatter.title} />
       </div>
+      
       
     </div>
   );
