@@ -4,9 +4,9 @@
 <url> <loc>https://davidcgong.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://davidcgong.com/posts/reading-list-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/posts/basic-technical-analysis-trading</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/posts/capm-quant-strat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://davidcgong.com/posts/reading-list-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/tag/books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/tag/quantitative-finance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://davidcgong.com/tag/technical-analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
