@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Computer Science @ Georgia Tech, former pro table tennis athlete passionate about data science, quantitative investing, and software engineering.',
   copyright: '© All rights reserved.',
   disqusShortname: 'davidcgong',
-  postsPerPage: 3,
+  postsPerPage: 4,
   googleAnalyticsId: 'UA-124026237-2',
   menu: [
     {
