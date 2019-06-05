@@ -43,6 +43,7 @@
     "bluebird": "^3.5.4",
     "classnames": "^2.2.6",
     "codecov": "^3.5.0",
+    "disqus-react": "^1.0.5",
     "gatsby": "^2.8.1",
     "gatsby-link": "^2.1.1",
     "gatsby-plugin-catch-links": "^2.0.15",
@@ -82,6 +83,8 @@
     "react-dom": "^16.8.6",
     "react-ga": "^2.5.7",
     "react-helmet": "^5.2.1",
+    "react-spotify-api": "^1.6.0",
+    "react-textscroll": "^1.0.0",
     "react-toastify": "^5.2.1",
     "spotify-web-api-js": "^1.2.0"
   },

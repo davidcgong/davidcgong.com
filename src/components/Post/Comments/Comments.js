@@ -10,6 +10,12 @@ type Props = {
 
 const Comments = ({ postTitle, postSlug }: Props) => {
   const { url, disqusShortname } = useSiteMetadata();
+  const disqusConfig = {
+    url: url,
+    shortname: disqusShortname,
+    title: postTitle,
+    url: url + postSlug
+  };
 
   if (!disqusShortname) {
     return null;

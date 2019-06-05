@@ -27,6 +27,7 @@ const Subscription = () => {
             <br />
             <input className={styles['subscription__form-submit']} type="submit" name="submit" value="SUBSCRIBE" />
             </form>
+            
         </div>
     );
 };

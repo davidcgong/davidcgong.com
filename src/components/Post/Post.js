@@ -9,6 +9,7 @@ import Tags from './Tags';
 import Subscription from '../Subscription';
 import SubscriptionPopup from '../SubscriptionPopup';
 import styles from './Post.module.scss';
+import Spotify from '../Spotify'
 import type { Node } from '../../types';
 
 type Props = {
