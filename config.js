@@ -27,8 +27,8 @@ module.exports = {
     photo: '/photo.jpg',
     bio: "Computer Science @ Georgia Tech. Blogging about quantitative finance, data science, and software engineering.",
     contacts: {
-      email: 'davidcgong@gmail.com',
-      github: 'davidcgong'
+      github: 'davidcgong',
+      email: 'davidcgong@gmail.com'
     }
   }
 };

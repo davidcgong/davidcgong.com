@@ -1,8 +1,7 @@
 /** 
  * Generic
  */
-
-
+ @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap);
 html {
   font-size: $typographic-root-font-size;
 }
@@ -100,7 +99,7 @@ a {
   &:hover,
   &:focus,
   &:active {
-    color: $typographic-link-s-font-color;
+    color: $typographic-link-p-font-color;
   }
 
 }

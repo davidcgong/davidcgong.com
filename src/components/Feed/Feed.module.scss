@@ -49,13 +49,14 @@
       &-category {
         &-link {
           font-size: $typographic-small-font-size;
-          color: $color-secondary;
+          color: $color-primary;
           font-weight: 600;
+          padding: 3px;
           text-transform: uppercase;
 
           &:hover,
           &:focus {
-            color: $color-primary;
+           
           }
 
         }
