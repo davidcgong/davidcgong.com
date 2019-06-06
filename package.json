@@ -40,6 +40,8 @@
     "disqus"
   ],
   "dependencies": {
+    "algotrader": "^2.4.9",
+    "axios": "^0.19.0",
     "bluebird": "^3.5.4",
     "classnames": "^2.2.6",
     "codecov": "^3.5.0",
@@ -85,6 +87,7 @@
     "react-helmet": "^5.2.1",
     "react-spotify-api": "^1.6.0",
     "react-textscroll": "^1.0.0",
+    "react-ticker": "^1.1.2",
     "react-toastify": "^5.2.1",
     "spotify-web-api-js": "^1.2.0"
   },
