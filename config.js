@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'David Gong',
     photo: '/photo.jpg',
-    bio: "Computer Science @ Georgia Tech. Blogging about quantitative finance, data science, and software engineering.",
+    bio: "Computer Science @ Georgia Tech. Incoming SWE Intern @ LinkedIn. Software Engineering + Investing.",
     contacts: {
       github: 'davidcgong',
       email: 'davidcgong@gmail.com'

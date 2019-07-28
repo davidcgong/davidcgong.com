@@ -3,8 +3,13 @@ title: "About me"
 template: "page"
 ---
 
-Hey! I'm a former pro table tennis athlete currently studying computer science at [Georgia Tech](https://gatech.edu). My interests in the field lie primarily in machine learning, data science, and full stack product development.
+Hi! I'm a former pro table tennis athlete currently studying computer science at [Georgia Tech](https://gatech.edu). My interests in the field lie primarily in mobile application development (Android), full stack web development, and machine learning.
 
-In my free time, I love to conduct research on the quantitative side of investing for the stock market, play table tennis, do options trading, and working on a couple of entrepreneurial ventures.
+I have done software engineering internships in the past with [PlayStation](https://playstation.com) and [Siemens](https://siemens.com), and will be joining [LinkedIn](https://linkedin.com) this fall semester.
 
-If you'd like to get in touch with me, please e-mail me at [davidcgong@gatech.edu](mailto:davidcgong@gatech.edu)!
+Some things I enjoy outside of making software:
+- Table tennis 🏓 + basketball 🏀 + ice skating ⛸️ <= I try not to fall more than once every 3 seconds
+- Stock investing 📈 (quantitative + discretionary)
+- Movies + dramas 🎥
+- Beat making 🎶
+- "Entrepreneurship" 💡 
