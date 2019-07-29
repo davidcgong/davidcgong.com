@@ -1,10 +1,4 @@
-# Based on:
-
-<h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
-    Lumen
-</h1>
-
+# davidcgong.com
 Feel free to either clone this repository or make your own starter based on the Lumen template for Gatsby.
 
 ## Quick Start
