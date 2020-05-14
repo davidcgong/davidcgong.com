@@ -1,17 +1,17 @@
 ---
-title: 'CAPM Quant Strategy'
-date: 2019-05-20T19:30:08+10:00
+title: 'Backtesting the capital-asset pricing model'
+date: 2019-05-20
 template: "post"
 draft: false
 slug: "/posts/capm-quant-strat/"
-category: "Quant"
+category: "Finance"
 tags:
-  - "Quantitative Finance"
-  - "Trading"
-description: "Implementing a trading algorithm based on the capital asset pricing model, a popularly used equation that seeks to find expected return rates on assets given beta."
+  - "Finance"
+  - "Quantitative Trading"
+description: "Brief description of the implementation of a trivial and 100% overfit trading algorithm based on the capital asset pricing model."
 ---
 
-<!-- <figure class="float-right" style="width: 240px; position: fixed; left: 0; top: 20">
+<!-- <figure class="float-right" style="width: 240px; position: fixed; right: 0; top: 0">
 <ul>
 <li><a href="#model-refactoring">Model Refactoring</a></li>
 <li><a href="#general-approach">General Approach</a></li>
@@ -25,15 +25,21 @@ description: "Implementing a trading algorithm based on the capital asset pricin
 </figure> -->
 
 
-- [Model Refactoring](#model-refactoring)
+<!-- - [Model Refactoring](#model-refactoring)
 - [General Approach](#general-approach)
 - [Market Assumptions](#market-assumptions)
 - [Safety Nets](#safety-nets)
 - [Steps](#steps)
 - [Results](#results)
 - [Bear Market Case Study](#bear-market-case-study)
-- [Conclusion](#conclusion)
+- [Conclusion](#conclusion) -->
 
+## Update (May 2020)
+I backtested this strategy for a year and the net gain was 2% after 1 year. Which still didn't really beat the index but it didn't really lose either so... is it good? Only time will tell. :) 
+
+Also, check the bottom of the post for an excel spreadsheet of the trades and messages sent from the exchange during the backtest.
+
+## Intro
 
 This is my first attempt at making a blog post about a method in quantitative investing, where I investigate the capital asset pricing model, a popularly used equation that seeks to find expected return rates on assets given beta. 
 

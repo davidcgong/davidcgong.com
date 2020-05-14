@@ -6,8 +6,8 @@ import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
-import Subscription from '../Subscription';
-import SubscriptionPopup from '../SubscriptionPopup';
+// import Subscription from '../Subscription';
+// import SubscriptionPopup from '../SubscriptionPopup';
 import styles from './Post.module.scss';
 import Spotify from '../Spotify'
 import type { Node } from '../../types';
@@ -24,17 +24,17 @@ const Post = ({ post }: Props) => {
 
   return (
     <div className={styles['post']}>
-      <SubscriptionPopup />
+      {/* <SubscriptionPopup /> */}
       <Link className={styles['post__home-button']} to="/">All Posts</Link>
       <div className={styles['post__content']}>
-        <Content body={html} title={title} />
+        <Content body={html} date={date} title={title} />
       </div>
 
       <div className={styles['post__footer']}>
       <a href="#">Back to the top.</a>
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
-        <Subscription />
+        {/* <Subscription /> */}
         <Author />
       </div>
       <div className={styles['post__comments']}>

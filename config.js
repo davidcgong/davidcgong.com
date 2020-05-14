@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://davidcgong.com',
   title: 'David Gong',
-  subtitle: 'Computer Science @ Georgia Tech, former pro table tennis athlete passionate about data science, quantitative investing, and software engineering.',
-  copyright: '© All rights reserved.',
+  subtitle: 'Software Engineer at LinkedIn, Georgia Tech alumni.',
+  copyright: '© 2020 David Gong',
   disqusShortname: 'davidcgong',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-124026237-2',
@@ -18,6 +18,10 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Reading / Notes',
+      path: '/pages/readinglist'
+    },
+    {
       label: 'Tags',
       path: '/tags'
     }
@@ -25,10 +29,11 @@ module.exports = {
   author: {
     name: 'David Gong',
     photo: '/photo.jpg',
-    bio: "Computer Science @ Georgia Tech. Incoming SWE Intern @ LinkedIn. Software Engineering + Investing.",
+    bio: "Software Engineer at LinkedIn",
     contacts: {
+      email: 'davidcgong@gmail.com',
       github: 'davidcgong',
-      email: 'davidcgong@gmail.com'
+      linkedin: 'davidcgong'
     }
   }
 };

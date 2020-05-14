@@ -4,8 +4,8 @@ import styles from './Subscription.module.scss';
 const Subscription = () => {
     return (
         <div className={styles['subscription']}>
-            <span className={styles['subscription__blurb']}><b>Subscribe</b> to know when I make posts! No spam, I promise 😋!</span>
-            <form
+            <span className={styles['subscription__blurb']}>Feel free to reach out to me about <a href="mailto:davidcgong@gmail.com"><b>davidcgong@gmail.com</b></a> about anything! I'd love to help or talk.</span>
+            {/* <form
                 className={styles['subscription__form']}
                 action="https://gmail.us20.list-manage.com/subscribe/post?u=82ca3563c97ee7664b6d610c0&amp;id=9a3481cd54"
                 method="post"
@@ -26,7 +26,7 @@ const Subscription = () => {
                 />
                 <br />
                 <input className={styles['subscription__form-submit']} type="submit" name="submit" value="SUBSCRIBE" />
-            </form>
+            </form> */}
 
         </div>
     );

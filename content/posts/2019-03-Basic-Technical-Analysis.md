@@ -1,13 +1,12 @@
 ---
 title: 'Basic Technical Analysis for Swing Trading'
-date: 2019-03-11T19:27:37+10:00
+date: 2019-03-11
 template: "post"
 draft: false
 slug: "/posts/basic-technical-analysis-trading"
-category: "Trading"
+category: "Finance"
 tags:
-  - "Trading"
-  - "Technical Analysis"
+  - "Finance"
 description: "Exploring some of the basic technical analysis techniques I have learned through trading."
 ---
 
