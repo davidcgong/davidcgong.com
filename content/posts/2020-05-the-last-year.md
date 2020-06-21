@@ -20,23 +20,19 @@ I haven't quite planned out what my plans are for now, but here's a list of what
 
 ## Hobbies
 
-### Participating in coding competitions (Google Kickstart, Code Jam, USACO past questions)
-I have to admit, the prospect of doing coding competitions wasn't really there for me in the beginning. After all, it took me a good two years to finally develop a solid fundamentals with regards to computer science, specifically data structures & algorithms. 
-
-However, after taking several advanced level algorithm courses and potentially expanding on it more with potential part-time graduate school prospects, I thought why not seek to learn what I know about dynamic programming, graph algorithms, computational mathematics, and many more to work? That leads into the second topic. I'm also missing a bit of the old days when I used to go to math competitions in high school.
-<img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/06/Google-Code-Jam-in-2018-1280x720.jpg" width="400" height="250" />
-
 ### Exploring new sports and adventures
 I've always shared a deep love for adventuring and travelling in different places around the world. I'll finally be able to finance a lot of these trips myself rather than saving money, though of course thanks to COVID-19 my post-graduate plans were cancelled :(
+
+
 
 I used to also be a pretty competitive table tennis player in the United States. I'm looking to turn a new leaf and explore other sports such as basketball, swimming, rock climbing, and more. I can definitively say I'm probably burned out from dedicating a ton of my life towards table tennis, lol.
 
 ## Education
 
 ### Do an online master's in computer science while working
-I've thought about it a great deal, and I realized that pursuing additional knowledge and challenging myself was actually pretty cool. In particular, I really enjoyed the A.I. curriculum I did during my undergraduate years at GT, namely Deep Learning and Machine Learning. Even though they were graduate level courses, I really enjoyed the rigor to which you got to dive into a topic and understand it. While I may have gained some knowledge of the basics, I think it would be cool to further apply and expand upon this knowledge.
+I've thought about it a great deal, and I realized that pursuing additional knowledge was mentally rewarding. In particular, I really enjoyed the A.I. curriculum I did during my undergraduate years at GT, namely Deep Learning and Machine Learning. Even though they were graduate level courses, I really enjoyed the rigor to which you got to dive into a topic and understand it. While I may have gained some knowledge of the basics, I think it would be cool to further apply and expand upon this knowledge.
 
-Instead of OMSCS at Georgia Tech, I'm looking at several other much more options such as UIUC, Johns Hopkins, USC, UCLA, and Columbia. I'm doing this mainly because I want some diversity in my education - plus there is tuition reimbursement to offset a good portion of the cost.
+In addition to OMSCS at Georgia Tech, I'm looking at several other options such as UIUC, Johns Hopkins, USC, UCLA, and Columbia since tuition reimubursement can cover at least half of the costs.
 
  If I do decide to go this route, I plan to take it slow, probably only 1 class maximum per semester. I think doing anymore is a quick recipe for burnout, and I'm mostly looking to further gain knowledge in addition to getting a master's degree.
 
